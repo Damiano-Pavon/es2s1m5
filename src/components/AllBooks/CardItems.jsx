@@ -10,9 +10,9 @@ function CardItems({img,title,price}) {
       <Card.Body>
         <Card.Title>{title}</Card.Title>
         <Card.Text>
-         {price}
+         {price}$
         </Card.Text>
-        <Button variant="primary">Go somewhere</Button>
+       
       </Card.Body>
     </Card>
     </Col>
